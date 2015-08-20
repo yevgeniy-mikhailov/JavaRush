@@ -32,5 +32,6 @@ public class Solution
         String name = reader.readLine();
 
         System.out.println("Id=" + id + " Name=" + name);
+        //test commit
     }
 }
